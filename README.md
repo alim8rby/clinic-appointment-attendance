@@ -63,3 +63,31 @@ It does not establish clinic performance, demographic effects, treatment outcome
 October records extend through 21 October only. Monthly counts cover unequal periods. Calendar dates without records do not establish zero clinic activity.
 
 Age groups are fixed reference attributes in this demonstration.
+
+
+## SQL extension
+
+SQLite stores patients, clinics, and appointments with primary keys,
+foreign keys, and approved-status constraints.
+
+The `clinic_attendance_summary` view calculates clinic counts,
+known-status attendance rates, and Unknown percentages.
+
+### Files
+
+- `data/appointments.db` — working SQLite database.
+- `sql/setup.sql` — snapshot containing schema, sample records, and view.
+- `sql/clinic_attendance_summary.sql` — view definition.
+- `sql/verify_setup.py` — rebuilds the snapshot in memory and checks
+  appointment count and foreign-key integrity.
+
+### Verify the snapshot
+
+From the project folder, run:
+
+```bash
+py sql/verify_setup.py
+```
+
+Requires Python 3. The baseline contains 15 synthetic appointments.
+The verification does not modify the working database.
