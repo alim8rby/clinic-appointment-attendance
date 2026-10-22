@@ -1,0 +1,33 @@
+clinic_id,status,appointment_count
+C01,Attended,4485
+C01,Cancelled,349
+C01,Did Not Attend,1142
+C01,Unknown,437
+C02,Attended,4335
+C02,Cancelled,358
+C02,Did Not Attend,1145
+C02,Unknown,405
+C03,Attended,4283
+C03,Cancelled,306
+C03,Did Not Attend,1045
+C03,Unknown,443
+C04,Attended,4418
+C04,Cancelled,281
+C04,Did Not Attend,1053
+C04,Unknown,434
+C05,Attended,4399
+C05,Cancelled,294
+C05,Did Not Attend,1146
+C05,Unknown,454
+C06,Attended,4273
+C06,Cancelled,318
+C06,Did Not Attend,1165
+C06,Unknown,484
+C07,Attended,4297
+C07,Cancelled,339
+C07,Did Not Attend,1146
+C07,Unknown,435
+C08,Attended,4407
+C08,Cancelled,293
+C08,Did Not Attend,1164
+C08,Unknown,467

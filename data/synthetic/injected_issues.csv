@@ -1,0 +1,301 @@
+appointment_id,issue_type,original_value,modified_value
+APT002527,status_formatting,Attended,  ATTENDED  
+APT018749,status_formatting,Unknown,  UNKNOWN  
+APT045628,status_formatting,Attended,  ATTENDED  
+APT049984,status_formatting,Attended,  ATTENDED  
+APT009433,status_formatting,Attended,  ATTENDED  
+APT030313,status_formatting,Attended,  ATTENDED  
+APT024241,status_formatting,Attended,  ATTENDED  
+APT044018,status_formatting,Attended,  ATTENDED  
+APT045773,status_formatting,Attended,  ATTENDED  
+APT006311,status_formatting,Attended,  ATTENDED  
+APT029701,status_formatting,Attended,  ATTENDED  
+APT039244,status_formatting,Attended,  ATTENDED  
+APT032655,status_formatting,Attended,  ATTENDED  
+APT039911,status_formatting,Attended,  ATTENDED  
+APT001256,status_formatting,Unknown,  UNKNOWN  
+APT033691,status_formatting,Attended,  ATTENDED  
+APT028338,status_formatting,Cancelled,  CANCELLED  
+APT037790,status_formatting,Attended,  ATTENDED  
+APT024404,status_formatting,Attended,  ATTENDED  
+APT040928,status_formatting,Attended,  ATTENDED  
+APT035848,status_formatting,Attended,  ATTENDED  
+APT049501,status_formatting,Attended,  ATTENDED  
+APT028448,status_formatting,Attended,  ATTENDED  
+APT025817,status_formatting,Attended,  ATTENDED  
+APT011547,status_formatting,Attended,  ATTENDED  
+APT003783,status_formatting,Attended,  ATTENDED  
+APT007033,status_formatting,Attended,  ATTENDED  
+APT008163,status_formatting,Attended,  ATTENDED  
+APT024633,status_formatting,Attended,  ATTENDED  
+APT010058,status_formatting,Cancelled,  CANCELLED  
+APT006275,status_formatting,Attended,  ATTENDED  
+APT010527,status_formatting,Attended,  ATTENDED  
+APT033583,status_formatting,Attended,  ATTENDED  
+APT032505,status_formatting,Attended,  ATTENDED  
+APT008435,status_formatting,Attended,  ATTENDED  
+APT025353,status_formatting,Attended,  ATTENDED  
+APT039140,status_formatting,Attended,  ATTENDED  
+APT033206,status_formatting,Cancelled,  CANCELLED  
+APT017822,status_formatting,Attended,  ATTENDED  
+APT037694,status_formatting,Cancelled,  CANCELLED  
+APT011918,status_formatting,Attended,  ATTENDED  
+APT024703,status_formatting,Attended,  ATTENDED  
+APT004164,status_formatting,Attended,  ATTENDED  
+APT003207,status_formatting,Attended,  ATTENDED  
+APT037963,status_formatting,Attended,  ATTENDED  
+APT004012,status_formatting,Cancelled,  CANCELLED  
+APT012231,status_formatting,Attended,  ATTENDED  
+APT004025,status_formatting,Attended,  ATTENDED  
+APT010862,status_formatting,Attended,  ATTENDED  
+APT019410,status_formatting,Unknown,  UNKNOWN  
+APT018041,status_formatting,Attended,  ATTENDED  
+APT005050,status_formatting,Attended,  ATTENDED  
+APT034227,status_formatting,Attended,  ATTENDED  
+APT040864,status_formatting,Attended,  ATTENDED  
+APT006753,status_formatting,Attended,  ATTENDED  
+APT038298,status_formatting,Attended,  ATTENDED  
+APT042860,status_formatting,Attended,  ATTENDED  
+APT042583,status_formatting,Attended,  ATTENDED  
+APT044516,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT004001,status_formatting,Attended,  ATTENDED  
+APT006167,status_formatting,Attended,  ATTENDED  
+APT040813,status_formatting,Attended,  ATTENDED  
+APT029978,status_formatting,Attended,  ATTENDED  
+APT042412,status_formatting,Attended,  ATTENDED  
+APT047409,status_formatting,Attended,  ATTENDED  
+APT021711,status_formatting,Attended,  ATTENDED  
+APT021639,status_formatting,Attended,  ATTENDED  
+APT034662,status_formatting,Attended,  ATTENDED  
+APT043524,status_formatting,Attended,  ATTENDED  
+APT045951,status_formatting,Attended,  ATTENDED  
+APT028757,status_formatting,Attended,  ATTENDED  
+APT010933,status_formatting,Attended,  ATTENDED  
+APT008280,status_formatting,Attended,  ATTENDED  
+APT005253,status_formatting,Attended,  ATTENDED  
+APT020942,status_formatting,Unknown,  UNKNOWN  
+APT003284,status_formatting,Attended,  ATTENDED  
+APT038759,status_formatting,Attended,  ATTENDED  
+APT017572,status_formatting,Attended,  ATTENDED  
+APT024121,status_formatting,Attended,  ATTENDED  
+APT047730,status_formatting,Attended,  ATTENDED  
+APT012191,status_formatting,Attended,  ATTENDED  
+APT044033,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT039616,status_formatting,Attended,  ATTENDED  
+APT004611,status_formatting,Attended,  ATTENDED  
+APT036174,status_formatting,Unknown,  UNKNOWN  
+APT043428,status_formatting,Attended,  ATTENDED  
+APT007426,status_formatting,Attended,  ATTENDED  
+APT019465,status_formatting,Attended,  ATTENDED  
+APT032436,status_formatting,Attended,  ATTENDED  
+APT047748,status_formatting,Attended,  ATTENDED  
+APT023696,status_formatting,Attended,  ATTENDED  
+APT046870,status_formatting,Attended,  ATTENDED  
+APT028443,status_formatting,Attended,  ATTENDED  
+APT002710,status_formatting,Attended,  ATTENDED  
+APT031003,status_formatting,Attended,  ATTENDED  
+APT027193,status_formatting,Attended,  ATTENDED  
+APT039444,status_formatting,Attended,  ATTENDED  
+APT005482,status_formatting,Unknown,  UNKNOWN  
+APT023470,status_formatting,Attended,  ATTENDED  
+APT008334,status_formatting,Attended,  ATTENDED  
+APT042269,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT005652,status_formatting,Attended,  ATTENDED  
+APT043569,status_formatting,Attended,  ATTENDED  
+APT047915,status_formatting,Attended,  ATTENDED  
+APT010100,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT037624,status_formatting,Attended,  ATTENDED  
+APT020154,status_formatting,Attended,  ATTENDED  
+APT007140,status_formatting,Attended,  ATTENDED  
+APT045225,status_formatting,Attended,  ATTENDED  
+APT035075,status_formatting,Attended,  ATTENDED  
+APT027837,status_formatting,Attended,  ATTENDED  
+APT029038,status_formatting,Attended,  ATTENDED  
+APT038479,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT002489,status_formatting,Attended,  ATTENDED  
+APT009606,status_formatting,Attended,  ATTENDED  
+APT000166,status_formatting,Attended,  ATTENDED  
+APT006931,status_formatting,Attended,  ATTENDED  
+APT008148,status_formatting,Attended,  ATTENDED  
+APT008260,status_formatting,Cancelled,  CANCELLED  
+APT048143,status_formatting,Attended,  ATTENDED  
+APT001118,status_formatting,Attended,  ATTENDED  
+APT022128,status_formatting,Attended,  ATTENDED  
+APT007769,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT047008,status_formatting,Attended,  ATTENDED  
+APT034888,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT032645,status_formatting,Attended,  ATTENDED  
+APT016973,status_formatting,Attended,  ATTENDED  
+APT049430,status_formatting,Attended,  ATTENDED  
+APT046074,status_formatting,Cancelled,  CANCELLED  
+APT029900,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT022283,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT025271,status_formatting,Attended,  ATTENDED  
+APT005712,status_formatting,Attended,  ATTENDED  
+APT046686,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT002190,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT006092,status_formatting,Attended,  ATTENDED  
+APT047038,status_formatting,Attended,  ATTENDED  
+APT013507,status_formatting,Attended,  ATTENDED  
+APT044061,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT026520,status_formatting,Attended,  ATTENDED  
+APT012714,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT044896,status_formatting,Attended,  ATTENDED  
+APT037725,status_formatting,Unknown,  UNKNOWN  
+APT026442,status_formatting,Attended,  ATTENDED  
+APT017061,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT038945,status_formatting,Attended,  ATTENDED  
+APT038426,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT026785,status_formatting,Cancelled,  CANCELLED  
+APT021454,status_formatting,Attended,  ATTENDED  
+APT026078,status_formatting,Unknown,  UNKNOWN  
+APT022741,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT003398,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT012177,status_formatting,Attended,  ATTENDED  
+APT035232,status_formatting,Attended,  ATTENDED  
+APT011655,status_formatting,Attended,  ATTENDED  
+APT012305,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT046283,status_formatting,Attended,  ATTENDED  
+APT048344,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT003349,status_formatting,Attended,  ATTENDED  
+APT043887,status_formatting,Attended,  ATTENDED  
+APT015298,status_formatting,Attended,  ATTENDED  
+APT019656,status_formatting,Attended,  ATTENDED  
+APT014545,status_formatting,Attended,  ATTENDED  
+APT022637,status_formatting,Unknown,  UNKNOWN  
+APT012307,status_formatting,Cancelled,  CANCELLED  
+APT014191,status_formatting,Attended,  ATTENDED  
+APT025152,status_formatting,Attended,  ATTENDED  
+APT025504,status_formatting,Attended,  ATTENDED  
+APT014737,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT003978,status_formatting,Attended,  ATTENDED  
+APT030037,status_formatting,Attended,  ATTENDED  
+APT032861,status_formatting,Attended,  ATTENDED  
+APT004013,status_formatting,Attended,  ATTENDED  
+APT006291,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT001783,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT001557,status_formatting,Cancelled,  CANCELLED  
+APT035771,status_formatting,Attended,  ATTENDED  
+APT040190,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT033479,status_formatting,Attended,  ATTENDED  
+APT033008,status_formatting,Attended,  ATTENDED  
+APT033128,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT007310,status_formatting,Attended,  ATTENDED  
+APT037942,status_formatting,Attended,  ATTENDED  
+APT022647,status_formatting,Attended,  ATTENDED  
+APT017269,status_formatting,Attended,  ATTENDED  
+APT014393,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT008516,status_formatting,Attended,  ATTENDED  
+APT029418,status_formatting,Attended,  ATTENDED  
+APT025632,status_formatting,Attended,  ATTENDED  
+APT010133,status_formatting,Attended,  ATTENDED  
+APT016332,status_formatting,Attended,  ATTENDED  
+APT000401,status_formatting,Attended,  ATTENDED  
+APT007105,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT045827,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT014388,status_formatting,Attended,  ATTENDED  
+APT008161,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT037110,status_formatting,Did Not Attend,  DID NOT ATTEND  
+APT040793,status_formatting,Attended,  ATTENDED  
+APT027230,status_formatting,Attended,  ATTENDED  
+APT013174,status_formatting,Attended,  ATTENDED  
+APT024690,exact_duplicate,One appointment row,Extra identical copy
+APT027860,exact_duplicate,One appointment row,Extra identical copy
+APT006915,exact_duplicate,One appointment row,Extra identical copy
+APT000966,exact_duplicate,One appointment row,Extra identical copy
+APT012245,exact_duplicate,One appointment row,Extra identical copy
+APT024651,exact_duplicate,One appointment row,Extra identical copy
+APT007629,exact_duplicate,One appointment row,Extra identical copy
+APT021521,exact_duplicate,One appointment row,Extra identical copy
+APT020488,exact_duplicate,One appointment row,Extra identical copy
+APT017114,exact_duplicate,One appointment row,Extra identical copy
+APT035273,exact_duplicate,One appointment row,Extra identical copy
+APT008773,exact_duplicate,One appointment row,Extra identical copy
+APT035451,exact_duplicate,One appointment row,Extra identical copy
+APT037726,exact_duplicate,One appointment row,Extra identical copy
+APT009923,exact_duplicate,One appointment row,Extra identical copy
+APT045389,exact_duplicate,One appointment row,Extra identical copy
+APT015896,exact_duplicate,One appointment row,Extra identical copy
+APT013088,exact_duplicate,One appointment row,Extra identical copy
+APT015500,exact_duplicate,One appointment row,Extra identical copy
+APT002874,exact_duplicate,One appointment row,Extra identical copy
+APT005947,exact_duplicate,One appointment row,Extra identical copy
+APT017579,exact_duplicate,One appointment row,Extra identical copy
+APT031384,exact_duplicate,One appointment row,Extra identical copy
+APT045833,exact_duplicate,One appointment row,Extra identical copy
+APT017910,exact_duplicate,One appointment row,Extra identical copy
+APT042436,exact_duplicate,One appointment row,Extra identical copy
+APT004821,exact_duplicate,One appointment row,Extra identical copy
+APT031572,exact_duplicate,One appointment row,Extra identical copy
+APT046094,exact_duplicate,One appointment row,Extra identical copy
+APT022260,exact_duplicate,One appointment row,Extra identical copy
+APT009321,exact_duplicate,One appointment row,Extra identical copy
+APT020972,exact_duplicate,One appointment row,Extra identical copy
+APT014634,exact_duplicate,One appointment row,Extra identical copy
+APT000655,exact_duplicate,One appointment row,Extra identical copy
+APT047816,exact_duplicate,One appointment row,Extra identical copy
+APT013599,exact_duplicate,One appointment row,Extra identical copy
+APT031133,exact_duplicate,One appointment row,Extra identical copy
+APT041968,exact_duplicate,One appointment row,Extra identical copy
+APT009852,exact_duplicate,One appointment row,Extra identical copy
+APT018748,exact_duplicate,One appointment row,Extra identical copy
+APT037323,exact_duplicate,One appointment row,Extra identical copy
+APT043808,exact_duplicate,One appointment row,Extra identical copy
+APT029118,exact_duplicate,One appointment row,Extra identical copy
+APT019598,exact_duplicate,One appointment row,Extra identical copy
+APT047362,exact_duplicate,One appointment row,Extra identical copy
+APT031519,exact_duplicate,One appointment row,Extra identical copy
+APT029102,exact_duplicate,One appointment row,Extra identical copy
+APT020187,exact_duplicate,One appointment row,Extra identical copy
+APT049298,exact_duplicate,One appointment row,Extra identical copy
+APT048933,exact_duplicate,One appointment row,Extra identical copy
+APT035948,exact_duplicate,One appointment row,Extra identical copy
+APT031906,exact_duplicate,One appointment row,Extra identical copy
+APT035995,exact_duplicate,One appointment row,Extra identical copy
+APT039981,exact_duplicate,One appointment row,Extra identical copy
+APT028035,exact_duplicate,One appointment row,Extra identical copy
+APT047436,exact_duplicate,One appointment row,Extra identical copy
+APT028419,exact_duplicate,One appointment row,Extra identical copy
+APT033951,exact_duplicate,One appointment row,Extra identical copy
+APT037690,exact_duplicate,One appointment row,Extra identical copy
+APT004620,exact_duplicate,One appointment row,Extra identical copy
+APT014005,exact_duplicate,One appointment row,Extra identical copy
+APT040234,exact_duplicate,One appointment row,Extra identical copy
+APT045844,exact_duplicate,One appointment row,Extra identical copy
+APT041893,exact_duplicate,One appointment row,Extra identical copy
+APT047598,exact_duplicate,One appointment row,Extra identical copy
+APT010097,exact_duplicate,One appointment row,Extra identical copy
+APT039740,exact_duplicate,One appointment row,Extra identical copy
+APT048863,exact_duplicate,One appointment row,Extra identical copy
+APT001627,exact_duplicate,One appointment row,Extra identical copy
+APT042359,exact_duplicate,One appointment row,Extra identical copy
+APT007089,exact_duplicate,One appointment row,Extra identical copy
+APT041801,exact_duplicate,One appointment row,Extra identical copy
+APT045852,exact_duplicate,One appointment row,Extra identical copy
+APT005781,exact_duplicate,One appointment row,Extra identical copy
+APT042767,exact_duplicate,One appointment row,Extra identical copy
+APT015163,exact_duplicate,One appointment row,Extra identical copy
+APT012320,exact_duplicate,One appointment row,Extra identical copy
+APT012940,exact_duplicate,One appointment row,Extra identical copy
+APT040023,exact_duplicate,One appointment row,Extra identical copy
+APT047844,exact_duplicate,One appointment row,Extra identical copy
+APT033856,exact_duplicate,One appointment row,Extra identical copy
+APT003953,exact_duplicate,One appointment row,Extra identical copy
+APT016793,exact_duplicate,One appointment row,Extra identical copy
+APT011133,exact_duplicate,One appointment row,Extra identical copy
+APT031853,exact_duplicate,One appointment row,Extra identical copy
+APT030282,exact_duplicate,One appointment row,Extra identical copy
+APT027470,exact_duplicate,One appointment row,Extra identical copy
+APT019479,exact_duplicate,One appointment row,Extra identical copy
+APT004207,exact_duplicate,One appointment row,Extra identical copy
+APT022402,exact_duplicate,One appointment row,Extra identical copy
+APT030044,exact_duplicate,One appointment row,Extra identical copy
+APT029022,exact_duplicate,One appointment row,Extra identical copy
+APT045483,exact_duplicate,One appointment row,Extra identical copy
+APT017481,exact_duplicate,One appointment row,Extra identical copy
+APT032683,exact_duplicate,One appointment row,Extra identical copy
+APT009133,exact_duplicate,One appointment row,Extra identical copy
+APT007502,exact_duplicate,One appointment row,Extra identical copy
+APT021061,exact_duplicate,One appointment row,Extra identical copy
+APT023474,exact_duplicate,One appointment row,Extra identical copy
+APT021811,exact_duplicate,One appointment row,Extra identical copy
