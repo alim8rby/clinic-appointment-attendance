@@ -2,6 +2,10 @@
 
 A healthcare analytics portfolio project using Excel, Power Query, Python/Pandas, SQLite, and Power BI to explore appointment attendance and data quality. All patient records are synthetic.
 
+## Working together
+
+See the [client workflow and three example engagements](docs/client-workflow.md) for discovery, scope, data-quality decisions, verification, revisions and handover. These are illustrative proposals, not completed client case studies.
+
 ## Versions
 
 | Version | Data | Report source |
